@@ -15,18 +15,16 @@ dadt_nonresponders = set([
     'SUM159PT', 'SW1573', 'SW620', 'WILL-1'
 ])
 
-synergy_responders = set([
-    'A375', 'A549', 'MDA-MB-468', 'MDST8', 'OVISE', 'Panc 04.03', 'SBC-5', 'THP-1', 'YD-10B'
-])
+synergy_responders = set(['A375', 'A498', 'A549', 'COLO741', 'Hs294T', 'MCF10A', 'MDAMB468',
+ 'MDST8', 'NCIH2170', 'NUGC3', 'OVISE', 'Panc0403', 'SBC5', 'THP1', 'YD10B']
+)
 
-synergy_nonresponders = set([
-    'A2058', 'A498', 'ACHN', 'AsPC-1', 'C3A', 'CAL-27', 'COLO-201', 'COLO-741',
-    'COV434', 'ChaGo-K-1', 'G-401', 'HARA', 'HCC-15', 'HCT-116', 'HUTU-80', 'HeLa',
-    'Hs 294T', 'HuH-1', 'HuH-7', 'KLM-1', 'KMS-26', 'LMSU', 'LS-411N', 'Li-7',
-    'MCF-10A', 'MKN45', 'NCI-H2170', 'NUGC-3', 'PANC-1', 'SCC-25', 'SK-HEP-1',
-    'SK-MEL-24', 'SK-UT-1', 'SU-DHL-10', 'SU-DHL-2', 'SU-DHL-4', 'SUIT-2',
-    'SUM159PT', 'SW1573', 'SW620', 'TE-11', 'TE-5', 'WILL-1'
-])
+synergy_nonresponders = set(['A2058', 'ACHN', 'AsPC1', 'C3A', 'CAL27', 'COLO201', 'COV434', 'ChaGoK1',
+ 'G401', 'HARA', 'HCC15', 'HCT116', 'HUTU80', 'HeLa', 'HuH1', 'HuH7',
+ 'KMS26', 'LMSU', 'LS411N', 'Li7', 'MKN45', 'PANC1', 'SCC25', 'SKHEP1',
+ 'SKMEL24', 'SKUT1', 'SUDHL10', 'SUDHL2', 'SUDHL4', 'SUIT2',
+ 'SUM159PT', 'SW1573', 'SW620', 'TE11', 'TE5', 'WILL1']
+)
 
 all_cell_lines = sorted(dadt_responders | dadt_nonresponders | synergy_responders | synergy_nonresponders)
 data = []

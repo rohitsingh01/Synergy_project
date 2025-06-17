@@ -118,5 +118,5 @@ ax2.set_ylim(1.2, -0.2)
 
 plt.tight_layout()
 plt.show()
-print(df.groupby('cell_line')['Synergy_score'].first().reset_index().query('Synergy_score > 3')['cell_line'].values)
-print(df.groupby('cell_line')['Synergy_score'].first().reset_index().query('Synergy_score < 3')['cell_line'].values)
+print(df.groupby('cell_line')['Synergy_score'].first().reset_index().query('Synergy_score > 1')['cell_line'].values)
+print(df.groupby('cell_line')['Synergy_score'].first().reset_index().query('Synergy_score < 1')['cell_line'].values)
