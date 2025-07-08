@@ -1,0 +1,660 @@
+,source,name,p_value,intersection_size
+0,GO:CC,extracellular exosome,1.9873717364210444e-32,61
+1,GO:CC,extracellular vesicle,4.453881511247469e-32,61
+2,GO:CC,extracellular membrane-bounded organelle,4.5743238665675986e-32,61
+3,GO:CC,extracellular organelle,4.5743238665675986e-32,61
+4,GO:BP,cytoplasmic translation,1.2280049557527398e-30,27
+5,REAC,SRP-dependent cotranslational protein targeting to membrane,4.7177023021329136e-27,25
+6,GO:CC,extracellular space,2.789091552965109e-24,64
+7,REAC,L13a-mediated translational silencing of Ceruloplasmin expression,7.303696501987836e-24,23
+8,REAC,GTP hydrolysis and joining of the 60S ribosomal subunit,9.11540204812751e-24,23
+9,GO:CC,cytosolic ribosome,1.5694955009762458e-23,20
+10,REAC,Cap-dependent Translation Initiation,4.047628074936163e-23,23
+11,REAC,Eukaryotic Translation Initiation,4.047628074936163e-23,23
+12,GO:CC,cytoplasm,1.291682825848762e-22,105
+13,REAC,Eukaryotic Translation Elongation,2.043158226396948e-22,21
+14,REAC,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3.3164564667139243e-22,21
+15,GO:CC,vesicle,4.39885359917165e-22,67
+16,REAC,Formation of a pool of free 40S subunits,1.3262775278590982e-21,21
+17,REAC,Translation,2.372516711246467e-21,29
+18,REAC,Peptide chain elongation,3.4299013492417965e-21,20
+19,REAC,Viral mRNA Translation,3.4299013492417965e-21,20
+20,REAC,Signaling by ROBO receptors,5.919736289959972e-21,26
+21,REAC,Regulation of expression of SLITs and ROBOs,8.081175270946501e-21,24
+22,REAC,Selenocysteine synthesis,8.86732911704072e-21,20
+23,REAC,Eukaryotic Translation Termination,8.86732911704072e-21,20
+24,GO:CC,cytosol,1.4372707584012317e-20,75
+25,WP,Cytoplasmic ribosomal proteins,2.1554663829911598e-20,20
+26,REAC,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2.4103191956799458e-20,21
+27,REAC,Nonsense-Mediated Decay (NMD),2.4103191956799458e-20,21
+28,REAC,Response of EIF2AK4 (GCN2) to amino acid deficiency,5.191464415999537e-20,20
+29,GO:CC,extracellular region,7.659932777660666e-20,66
+30,GO:CC,ribosomal subunit,4.0422659164448845e-19,20
+31,REAC,Selenoamino acid metabolism,9.65035619059844e-19,20
+32,REAC,Influenza Viral RNA Transcription and Replication,1.410970639013113e-17,20
+33,KEGG,Ribosome,6.3117948329286e-17,20
+34,GO:CC,cytosolic large ribosomal subunit,1.2876854210814354e-16,13
+35,GO:BP,translation,1.697099911326767e-16,30
+36,REAC,Influenza Infection,2.8791982442410243e-16,20
+37,REAC,Major pathway of rRNA processing in the nucleolus and cytosol,4.26023093738971e-16,21
+38,REAC,Cellular response to starvation,4.264905373797111e-16,20
+39,CORUM,"Ribosome, cytoplasmic",1.0786934905672744e-15,19
+40,REAC,rRNA processing in the nucleus and cytosol,1.314043842975896e-15,21
+41,REAC,rRNA processing,3.802764201751508e-15,21
+42,REAC,Infectious disease,4.411648066934679e-15,40
+43,REAC,Axon guidance,7.457388011896359e-15,30
+44,REAC,Nervous system development,2.592520161809127e-14,30
+45,CORUM,Nop56p-associated pre-rRNA complex,1.1372747229436847e-13,19
+46,KEGG,Coronavirus disease - COVID-19,2.336477478218108e-13,20
+47,GO:MF,RNA binding,5.638739561472153e-13,51
+48,REAC,Metabolism of proteins,8.420780939884517e-13,51
+49,REAC,Viral Infection Pathways,1.2604166193970976e-12,34
+50,GO:CC,large ribosomal subunit,3.0521939459403563e-12,13
+51,REAC,Cellular responses to stress,4.5690607920234545e-12,32
+52,REAC,Metabolism of amino acids and derivatives,4.952693934933071e-12,23
+53,REAC,Cellular responses to stimuli,7.464130564905881e-12,32
+54,REAC,Metabolism of RNA,1.0955014893877467e-11,30
+55,HPA,Skin 2; cells in basal layer[≥Medium],1.648369909681119e-11,30
+56,GO:CC,ribosome,1.996876932860566e-11,21
+57,HPA,Skin 2; cells in basal layer[≥Low],3.986960656860628e-11,33
+58,MIRNA,hsa-mir-615-3p,4.415927862948587e-11,30
+59,GO:BP,protein metabolic process,7.586412924906743e-11,59
+60,GO:CC,protein-containing complex,9.402959052092495e-11,75
+61,GO:MF,structural constituent of ribosome,9.471158981340566e-11,20
+62,HPA,Skin 2; cells in spinous layer[≥Low],1.0757532617830636e-10,31
+63,GO:CC,organelle,1.330917516648876e-10,106
+64,HPA,Skin 1; cells in basal layer[≥Low],1.459819506737208e-10,31
+65,HPA,Adipose tissue; adipocytes[≥Low],2.0334345272580763e-10,65
+66,HPA,Adipose tissue,2.0334345272580763e-10,65
+67,REAC,Disease,2.1868659738791073e-10,45
+68,GO:CC,intracellular organelle,6.830863651975289e-10,104
+69,CORUM,"60S ribosomal subunit, cytoplasmic",8.400367284241718e-10,12
+70,GO:CC,membrane-bounded organelle,1.0043942611053023e-09,103
+71,HPA,Skin 2; endothelial cells[≥Low],1.121290033229367e-09,30
+72,HPA,Skin 2; fibrohistiocytic cells[≥Low],1.2554394055890098e-09,32
+73,HPA,Skin 1; endothelial cells[≥Low],1.7404347148289889e-09,29
+74,HPA,Skin 2; lymphocytes[≥Low],3.3586209763943784e-09,28
+75,HP,Osteosarcoma,4.719986704832515e-09,9
+76,HPA,Skin 1; cells in basal layer[≥Medium],4.770535129507638e-09,25
+77,HPA,Cervix; glandular cells[≥Low],4.79140313531253e-09,76
+78,HPA,Skin 1; cells in spinous layer[≥Low],5.835071095559505e-09,27
+79,HPA,Ovary; ovarian stroma cells[≥Low],7.830917669012775e-09,63
+80,HPA,Skin 2; hair follicles[≥Medium],8.217821765975628e-09,14
+81,HPA,Endometrium 1; glandular cells[≥Medium],8.278634892116688e-09,72
+82,HPA,Skin 2; fibrohistiocytic cells[≥Medium],8.285532421249394e-09,28
+83,HPA,Skin 1; lymphocytes[≥Low],8.519870820319215e-09,26
+84,HPA,Pancreas; exocrine glandular cells[≥Medium],8.995493404618332e-09,73
+85,HP,Elevated red cell adenosine deaminase activity,1.0211410185575254e-08,8
+86,HP,Abnormal radial artery morphology,1.0211410185575254e-08,8
+87,HP,Radial artery aplasia,1.0211410185575254e-08,8
+88,HPA,Lymph node; germinal center cells[≥Low],1.3102429424138765e-08,71
+89,HPA,Skin 2; langerhans cells[≥Low],1.3807274488283225e-08,27
+90,HP,Abnormal erythrocyte adenosine deaminase activity,1.44319610689989e-08,8
+91,HPA,Endometrium 1; glandular cells[≥Low],1.7162533085581836e-08,82
+92,REAC,Translation initiation complex formation,1.7675027943691483e-08,10
+93,REAC,Ribosomal scanning and start codon recognition,1.7675027943691483e-08,10
+94,HPA,Breast; glandular cells[High],1.9628445170241845e-08,35
+95,HP,Macrocytic dyserythropoietic anemia,2.009474927884391e-08,8
+96,REAC,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",2.1067793687668126e-08,10
+97,HPA,Skin 2,2.2250659009046314e-08,83
+98,HPA,Endometrium 1,2.8271618725887814e-08,83
+99,HPA,Adrenal gland; glandular cells[≥Medium],2.9069490871286622e-08,77
+100,HPA,Spleen; cells in white pulp[≥Low],2.987031333877739e-08,65
+101,HPA,Skin 1; fibrohistiocytic cells[≥Low],3.444413543100826e-08,28
+102,HPA,Lymph node,3.531166142863595e-08,80
+103,HP,Pure red cell aplasia,3.742980086055428e-08,8
+104,HPA,Ovary,3.77774693220951e-08,73
+105,HP,Erythroid hypoplasia,5.0174125835073365e-08,8
+106,HPA,Cervix; glandular cells[≥Medium],5.978880497087911e-08,62
+107,GO:CC,intracellular anatomical structure,6.218592580193549e-08,106
+108,HPA,Esophagus; squamous epithelial cells[High],7.080317433566237e-08,38
+109,HPA,Endometrium 1; cells in endometrial stroma[≥Low],9.860491031402944e-08,62
+110,HPA,Breast,1.040456427233274e-07,83
+111,HPA,Breast; glandular cells[≥Low],1.0438857850885212e-07,81
+112,HPA,Endometrium 2; cells in endometrial stroma[≥Low],1.1582101921518662e-07,57
+113,HPA,Skin 2; cells in spinous layer[≥Medium],1.2588569209408986e-07,24
+114,HPA,Tonsil; germinal center cells[≥Medium],1.2697660327256067e-07,62
+115,HPA,Skin 2; hair follicles[≥Low],1.3329534424949806e-07,14
+116,HPA,Adrenal gland; glandular cells[≥Low],1.3928238687539612e-07,84
+117,HP,Abnormality of the thenar eminence,1.4645814879489342e-07,8
+118,HP,Adenocarcinoma of the colon,1.4645814879489342e-07,8
+119,HPA,Adrenal gland,1.4946115281914075e-07,84
+120,HPA,Pancreas; exocrine glandular cells[High],1.7634695129767974e-07,41
+121,HP,Sprengel anomaly,1.841868590424175e-07,9
+122,HPA,Skin 2; endothelial cells[≥Medium],1.8590325313022977e-07,23
+123,HP,Malignant genitourinary tract tumor,1.872773151760235e-07,8
+124,GO:MF,structural molecule activity,1.8936372957592578e-07,25
+125,MIRNA,hsa-mir-92a-3p,1.9204909009335223e-07,30
+126,HPA,Bone marrow; hematopoietic cells[≥Medium],1.9336793138692214e-07,63
+127,HPA,Skin 2; melanocytes[≥Medium],2.0381018749791647e-07,23
+128,GO:MF,protein binding,2.2972448193035833e-07,102
+129,GO:CC,endomembrane system,2.3731168803707909e-07,52
+130,HP,Reticulocytopenia,2.3763795751290434e-07,8
+131,HP,Persistence of hemoglobin F,2.3763795751290434e-07,8
+132,GO:CC,cell junction,2.385124697746964e-07,35
+133,HPA,Lymph node; non-germinal center cells[≥Low],2.4287620841609607e-07,76
+134,HPA,Skin 2; lymphocytes[≥Medium],2.5207315709058776e-07,23
+135,HPA,Colon; enterocytes[≥Medium],2.72451492837753e-07,18
+136,HPA,Fallopian tube; glandular cells[≥Medium],2.9912126034554726e-07,66
+137,HPA,Tonsil; squamous epithelial cells[≥Medium],3.163788860667994e-07,68
+138,HPA,Skin 1; langerhans cells[≥Low],3.270426698260544e-07,24
+139,HPA,Urinary bladder,3.324785160181527e-07,83
+140,HPA,Urinary bladder; urothelial cells[≥Low],3.324785160181527e-07,83
+141,HPA,Oral mucosa; squamous epithelial cells[≥Low],3.451368664604663e-07,77
+142,HPA,Oral mucosa,3.451368664604663e-07,77
+143,GO:CC,cytosolic small ribosomal subunit,3.590241525297686e-07,7
+144,HP,Adenocarcinoma of the large intestine,3.745709764571538e-07,8
+145,HP,Normochromic anemia,3.745709764571538e-07,8
+146,HPA,Seminal vesicle; glandular cells[≥Medium],3.899981964744335e-07,70
+147,HPA,Skin 2; langerhans cells[≥Medium],3.93754487513035e-07,23
+148,HPA,Skin 2; melanocytes[≥Low],4.0883396390624893e-07,24
+149,HPA,Liver,5.030604986954635e-07,77
+150,REAC,Developmental Biology,5.942880880804013e-07,34
+151,HPA,Salivary gland; glandular cells[≥Medium],5.965636307361413e-07,67
+152,GO:CC,focal adhesion,6.092865600590024e-07,15
+153,HPA,Colon; endocrine cells[≥Medium],6.422964955477409e-07,18
+154,HPA,Tonsil; squamous epithelial cells[≥Low],6.515745196581307e-07,79
+155,HPA,Endometrium 2; glandular cells[≥Medium],7.041287749344884e-07,67
+156,HP,Partial duplication of thumb phalanx,7.069067135663392e-07,8
+157,HPA,Endometrium 1; cells in endometrial stroma[≥Medium],7.202663160360374e-07,43
+158,HPA,Rectum; endocrine cells[≥Medium],7.228525332010715e-07,18
+159,HPA,Cerebellum,7.674656276947933e-07,82
+160,HPA,Nasopharynx,8.0564793413893e-07,82
+161,GO:CC,cell-substrate junction,8.347075317738683e-07,15
+162,HP,Adenocarcinoma of the intestines,8.637496873769282e-07,8
+163,HPA,Spleen,9.838292846994003e-07,74
+164,GO:MF,mRNA binding,9.922198983788892e-07,15
+165,HP,Partial duplication of the phalanx of hand,1.0499369287712707e-06,8
+166,HPA,Skin 1; fibrohistiocytic cells[≥Medium],1.1234639758210172e-06,23
+167,HPA,Prostate; glandular cells[≥Medium],1.1675000258187463e-06,66
+168,HPA,Skin 1,1.1973346454848278e-06,82
+169,HP,Thrombocytosis,1.201947740927572e-06,9
+170,HPA,Appendix; endocrine cells[≥Low],1.2852237038582196e-06,18
+171,GO:MF,cadherin binding,1.2994825746129525e-06,14
+172,HPA,Endometrium 2; glandular cells[≥Low],1.3460952527334558e-06,79
+173,HPA,Salivary gland; glandular cells[≥Low],1.4199508689069542e-06,80
+174,HPA,Salivary gland,1.4199508689069542e-06,80
+175,HPA,Liver; cholangiocytes[≥Low],1.4283502310115215e-06,59
+176,HPA,Lymph node; germinal center cells[≥Medium],1.6289264523189524e-06,53
+177,HPA,Stomach 1,1.6329334337670276e-06,84
+178,HPA,Stomach 1; glandular cells[≥Low],1.6329334337670276e-06,84
+179,HPA,Skin 1; cells in spinous layer[≥Medium],1.6375255566521236e-06,21
+180,HPA,Endometrium 2,1.6703172528887451e-06,80
+181,HPA,Cervix,1.7685799559032435e-06,80
+182,HPA,Lymph node; non-germinal center cells[≥Medium],1.8724066686299243e-06,59
+183,HPA,Skin 2; cells in granular layer[≥Low],1.9758879852941296e-06,23
+184,HPA,Oral mucosa; squamous epithelial cells[≥Medium],2.078246464329879e-06,62
+185,HPA,Pancreas; exocrine glandular cells[≥Low],2.098440441861754e-06,80
+186,HPA,Tonsil; germinal center cells[≥Low],2.3511401952529914e-06,74
+187,HPA,Lung; macrophages[High],2.579901453738939e-06,32
+188,TF,Factor: TEL1; motif: CNCGGAANNN,2.579910022656472e-06,89
+189,HP,Abnormal erythrocyte enzyme concentration or activity,2.5995418923209393e-06,8
+190,HPA,Rectum; enterocytes[≥Medium],2.625657942177086e-06,17
+191,HPA,Bone marrow; hematopoietic cells[High],2.841627397725052e-06,33
+192,TF,Factor: ER71:Pax-5; motif: ACCGGAACYACGCWTSANTG; match class: 1,3.0088166441059343e-06,80
+193,GO:MF,cell adhesion molecule binding,3.0529971247339955e-06,17
+194,HPA,Colon; fibroblasts[≥Low],3.1200054797966123e-06,10
+195,HPA,Colon; endocrine cells[≥Low],3.294290490247813e-06,18
+196,HP,Macrocytic anemia,3.4378528962004948e-06,9
+197,HPA,Seminal vesicle,3.5376987805348173e-06,79
+198,HPA,Seminal vesicle; glandular cells[≥Low],3.5376987805348173e-06,79
+199,HPA,Bone marrow; hematopoietic cells[≥Low],3.545908914483156e-06,77
+200,HPA,Bone marrow,3.545908914483156e-06,77
+201,HPA,Seminal vesicle; glandular cells[High],3.7391456816546467e-06,33
+202,HPA,Endometrium 1; glandular cells[High],3.7391456816546467e-06,33
+203,REAC,"Formation of the ternary complex, and subsequently, the 43S complex",3.88814050526972e-06,8
+204,HPA,Rectum; endocrine cells[≥Low],3.91806927824637e-06,18
+205,HPA,Lung,4.11137807780059e-06,82
+206,GO:CC,synapse,4.132674001021466e-06,27
+207,HPA,Esophagus,4.17528171899332e-06,78
+208,HPA,Esophagus; squamous epithelial cells[≥Low],4.17528171899332e-06,78
+209,HP,Increased mean corpuscular volume,4.267170631352722e-06,8
+210,HP,Abnormal number of erythroid precursors,4.267170631352722e-06,8
+211,HP,Abnormal hemoglobin,4.937561752785132e-06,9
+212,HPA,Appendix; non-germinal center cells[≥Medium],5.34222399986891e-06,14
+213,HPA,Soft tissue 1,5.506572489884348e-06,69
+214,HPA,Pancreas,5.592821969378084e-06,82
+215,HPA,Skin 1; langerhans cells[≥Medium],6.126822729902896e-06,20
+216,HPA,Kidney,6.244672620258551e-06,86
+217,HPA,Breast; myoepithelial cells[≥Low],6.397089129716451e-06,71
+218,HPA,Soft tissue 1; fibroblasts[≥Low],7.085184072248275e-06,60
+219,HPA,Bronchus,7.384148988084289e-06,82
+220,REAC,SARS-CoV-1 modulates host translation machinery,7.658595948060933e-06,7
+221,HPA,Breast; myoepithelial cells[≥Medium],7.705852679721484e-06,56
+222,HPA,Skin 1; cells in granular layer[≥Low],8.037005003059747e-06,22
+223,HPA,Colon; mucosal lymphoid cells[≥Medium],8.088441396618328e-06,16
+224,HPA,Nasopharynx; respiratory epithelial cells[≥Medium],8.215541201473824e-06,64
+225,HPA,Epididymis; glandular cells[≥Medium],8.389749823183014e-06,71
+226,HPA,Appendix; enterocytes[≥Low],9.926706826298491e-06,18
+227,HPA,Lung; macrophages[≥Medium],9.9629376414242e-06,65
+228,HPA,Fallopian tube,1.0003036598474906e-05,82
+229,HPA,Gallbladder; glandular cells[≥Low],1.005579039376404e-05,83
+230,HPA,Gallbladder,1.005579039376404e-05,83
+231,HPA,Vagina,1.033543412326449e-05,73
+232,HPA,Vagina; squamous epithelial cells[≥Low],1.033543412326449e-05,73
+233,HP,Absent thumb,1.0517706651472241e-05,8
+234,HPA,Lung; macrophages[≥Low],1.0676782929297166e-05,78
+235,HPA,Bronchus; respiratory epithelial cells[≥Medium],1.1721513310918712e-05,65
+236,HPA,Colon; mucosal lymphoid cells[High],1.1908669159115675e-05,11
+237,HPA,Caudate,1.2599501763537121e-05,79
+238,HPA,Endometrium 2; cells in endometrial stroma[≥Medium],1.2712612246617023e-05,36
+239,HPA,Cerebral cortex; glial cells[≥Low],1.3390861023346865e-05,65
+240,HPA,Oral mucosa; squamous epithelial cells[High],1.345111306169925e-05,28
+241,HP,Cleft soft palate,1.3886514257167554e-05,8
+242,HP,Duplication of thumb phalanx,1.3886514257167554e-05,8
+243,HPA,Cerebral cortex,1.478044649178224e-05,85
+244,HPA,Spleen; cells in red pulp[≥Low],1.5621889559212978e-05,68
+245,HPA,Stomach 1; glandular cells[≥Medium],1.6036339297402877e-05,75
+246,HPA,Appendix; non-germinal center cells[≥Low],1.6794198349080496e-05,15
+247,HPA,Colon,1.6923451517414505e-05,86
+248,HPA,Nasopharynx; respiratory epithelial cells[≥Low],1.7040343093835446e-05,71
+249,HPA,Prostate,1.763731964925204e-05,77
+250,HPA,Prostate; glandular cells[≥Low],1.763731964925204e-05,77
+251,HP,Abnormal mean corpuscular volume,1.8150416075450905e-05,8
+252,HPA,Skin 1; cells in granular layer[≥Medium],1.8902795254420868e-05,19
+253,HPA,Breast; adipocytes[≥Low],1.8942825957048283e-05,46
+254,GO:CC,small-subunit processome,1.920483330768795e-05,7
+255,HPA,Breast; glandular cells[≥Medium],2.1129258061373564e-05,66
+256,HPA,Endometrium 2; glandular cells[High],2.1298628482345432e-05,30
+257,HPA,Skin 2; cells in granular layer[≥Medium],2.1766063060077083e-05,19
+258,HPA,Colon; enterocytes[≥Low],2.2885680831871317e-05,18
+259,HP,Finger aplasia,2.452521787886251e-05,9
+260,HPA,Cerebral cortex; neuronal cells[High],2.4624080627360555e-05,36
+261,HPA,Skin 2; cells in basal layer[High],2.464467024204146e-05,14
+262,TF,Factor: c-ets-2; motif: ACCGGAWRTN; match class: 1,2.4777274257813888e-05,52
+263,GO:CC,small ribosomal subunit,2.5467442364477692e-05,7
+264,HPA,Urinary bladder; urothelial cells[≥Medium],2.596721234390121e-05,72
+265,HPA,Rectum; mucosal lymphoid cells[≥Medium],2.6781231336185847e-05,16
+266,HPA,Rectum; enterocytes[≥Low],2.9004371268116777e-05,18
+267,HPA,Rectum; endothelial cells[≥Low],2.9711293156517366e-05,13
+268,HP,Nonimmune hydrops fetalis,3.016412445432524e-05,8
+269,HPA,Spleen; cells in white pulp[≥Medium],3.1238469818954175e-05,45
+270,HP,Abnormality of the musculature of the hand,3.181108363205499e-05,10
+271,HPA,Small intestine; endocrine cells[≥Medium],3.192395222183334e-05,17
+272,GO:CC,chaperonin-containing T-complex,3.304599274309245e-05,4
+273,GO:CC,endoplasmic reticulum,3.3994860488530284e-05,29
+274,HPA,Stomach 2,3.476954274934471e-05,82
+275,HPA,Stomach 2; glandular cells[≥Low],3.476954274934471e-05,82
+276,HPA,Skin 2; melanocytes[High],3.720363327126153e-05,15
+277,HPA,Kidney; cells in glomeruli[≥Low],3.764419263190685e-05,66
+278,GO:MF,protein folding chaperone,3.852102597203675e-05,7
+279,HPA,Gallbladder; glandular cells[≥Medium],4.158687548287834e-05,76
+280,HPA,Rectum; mucosal lymphoid cells[High],4.3480156360911554e-05,11
+281,HPA,Thyroid gland; glandular cells[≥Medium],4.6889980760630774e-05,69
+282,HPA,Appendix,4.8454445033172e-05,83
+283,HP,Triphalangeal thumb,4.850345536124374e-05,8
+284,HPA,Thyroid gland,5.167409129925202e-05,79
+285,HPA,Thyroid gland; glandular cells[≥Low],5.167409129925202e-05,79
+286,HPA,Tonsil; germinal center cells[High],5.2258453440497186e-05,28
+287,HPA,Tonsil; squamous epithelial cells[High],5.250142585305973e-05,31
+288,HPA,Lung; alveolar cells type II[≥Medium],5.594631593114663e-05,28
+289,HPA,Appendix; endocrine cells[≥Medium],5.7167627494300054e-05,15
+290,HPA,Duodenum; enterocytes[≥Low],6.074906532838854e-05,18
+291,HPA,Salivary gland; glandular cells[High],6.124204604018675e-05,31
+292,HPA,Cerebral cortex; glial cells[≥Medium],6.331817588461515e-05,44
+293,HPA,Fallopian tube; glandular cells[High],6.6659433699289e-05,33
+294,MIRNA,hsa-mir-16-5p,6.704934052855467e-05,28
+295,HPA,Duodenum; enterocytes[≥Medium],6.756031019683814e-05,16
+296,HPA,Hippocampus,6.820167202276597e-05,77
+297,HPA,Epididymis,7.376734417600259e-05,80
+298,HPA,Epididymis; glandular cells[≥Low],7.376734417600259e-05,80
+299,GO:BP,chaperone mediated protein folding independent of cofactor,7.787447426658853e-05,4
+300,REAC,SARS-CoV-2 modulates host translation machinery,7.841289178246441e-05,7
+301,HP,Neoplasm of the skeletal system,7.908492354723724e-05,9
+302,GO:MF,unfolded protein binding,8.148077958818429e-05,8
+303,GO:MF,mRNA 5'-UTR binding,8.371256851465582e-05,5
+304,HP,Gastrointestinal carcinoma,8.433658631425724e-05,8
+305,HP,Developmental glaucoma,8.433658631425724e-05,8
+306,HP,Malignant gastrointestinal tract tumors,8.433658631425724e-05,8
+307,HPA,Duodenum; paneth cells[≥Low],8.443887765170608e-05,13
+308,HPA,Duodenum; endocrine cells[≥Low],8.587046671261386e-05,17
+309,HP,Developmental cataract,8.648183294938824e-05,10
+310,HPA,Small intestine; endocrine cells[≥Low],8.836945343159873e-05,17
+311,HP,Acute myeloid leukemia,9.374277528206275e-05,8
+312,GO:CC,intracellular membraneless organelle,0.00010092417432885002,57
+313,GO:CC,membraneless organelle,0.00010148358068220351,57
+314,HPA,Small intestine; enterocytes[≥Medium],0.00010439601774756519,16
+315,TF,Factor: PEA3; motif: NACCGGAAGTN,0.00010449003935406498,85
+316,HPA,Tonsil; non-germinal center cells[≥Low],0.0001122536841132997,72
+317,HPA,Liver; cholangiocytes[≥Medium],0.00011315360238543398,36
+318,TF,Factor: ERF; motif: ACCGGAARYN,0.00011447995592481595,36
+319,WP,VEGFA VEGFR2 signaling,0.00012544289884388558,17
+320,HPA,Duodenum; endocrine cells[≥Medium],0.00012894944916849943,16
+321,GO:BP,positive regulation of telomerase RNA localization to Cajal body,0.0001396408717559183,4
+322,GO:CC,intracellular membrane-bounded organelle,0.0001475927172441692,93
+323,CORUM,"40S ribosomal subunit, cytoplasmic",0.00014974388902660568,7
+324,HP,Myelodysplasia,0.00015046798131489224,9
+325,HPA,Skin 1; lymphocytes[≥Medium],0.0001535309806246518,18
+326,HPA,Tonsil; non-germinal center cells[≥Medium],0.0001626903265104634,57
+327,HPA,Fallopian tube; glandular cells[≥Low],0.0001629641689810756,69
+328,HPA,Rectum,0.0001646529891226099,83
+329,HPA,Soft tissue 2,0.00016522642787723896,65
+330,HPA,Liver; hepatocytes[≥Low],0.00016856232526150849,69
+331,HP,Neoplasm of the colon,0.0001714525640920613,8
+332,HPA,Caudate; glial cells[≥Low],0.00018165476171055412,60
+333,HPA,Pancreas; pancreatic endocrine cells[≥Low],0.00018894975088609814,68
+334,HPA,Hippocampus; neuronal cells[≥Medium],0.0002023505324687756,57
+335,TF,Factor: Kaiso; motif: TCTCGCGAG; match class: 1,0.00020442037845118868,84
+336,GO:BP,regulation of protein stability,0.00020476494599092431,12
+337,HPA,Bronchus; respiratory epithelial cells[≥Low],0.00020515843578073066,70
+338,HP,Abnormal reticulocyte morphology,0.00020742305025219337,8
+339,CORUM,"TRBP containing complex (DICER, RPL7A, EIF6, MOV10 and subunits of the 60S ribosomal particle)",0.00020900763480502768,6
+340,HPA,Testis; Leydig cells[≥Medium],0.0002189648637512992,66
+341,HPA,Duodenum; paneth cells[High],0.00023162556007542102,10
+342,GO:BP,positive regulation of protein localization to Cajal body,0.00023184963630016697,4
+343,GO:BP,regulation of protein localization to Cajal body,0.00023184963630016697,4
+344,HP,Acute leukemia,0.00023599538415476726,9
+345,HPA,Soft tissue 2; fibroblasts[≥Low],0.00023891730533985442,56
+346,HPA,Skin 1; endothelial cells[≥Medium],0.00024059111689269367,18
+347,TF,Factor: YY1; motif: GCCGCCATNTTGNNNNNGGNCN; match class: 1,0.0002407545312671372,30
+348,HPA,Cerebral cortex; neuronal cells[≥Medium],0.00024090239285007333,63
+349,HP,Decreased total leukocyte count,0.0002536020630056339,10
+350,HPA,Colon; fibroblasts[≥Medium],0.00025484476685027767,8
+351,GO:BP,'de novo' protein folding,0.0002625135544923485,6
+352,TF,Factor: Erg; motif: NACCGGAARTN,0.00026898559145773035,85
+353,GO:CC,preribosome,0.00026907438007005963,7
+354,TF,Factor: ETV4; motif: ACCGGAAGTN; match class: 1,0.00028446278180941417,52
+355,HPA,Appendix; enterocytes[≥Medium],0.0002845972885921656,14
+356,HPA,Cerebral cortex; endothelial cells[≥Low],0.0002915890575557218,60
+357,TF,Factor: ETV4; motif: ACCGGAAGTN,0.0003011170326072674,85
+358,HPA,Soft tissue 1; fibroblasts[≥Medium],0.0003106708565622767,43
+359,GO:MF,ATP-dependent protein folding chaperone,0.0003251335113930636,5
+360,HPA,Placenta,0.000332060078873406,80
+361,HPA,Colon; enterocytes[High],0.000333651482795585,11
+362,HPA,Skin 1; hair follicles[≥Low],0.0003349797418372959,14
+363,GO:BP,protein stabilization,0.00033576192767547383,10
+364,HP,Webbed neck,0.0003369626068112635,9
+365,HPA,Rectum; mucosal lymphoid cells[≥Low],0.000348723366788671,17
+366,REAC,Folding of actin by CCT/TriC,0.00038472521686049016,4
+367,GO:MF,ubiquitin-protein transferase inhibitor activity,0.0004105682674429301,4
+368,HPA,Ovary; ovarian stroma cells[≥Medium],0.0004108432966216882,36
+369,GO:CC,pigment granule,0.00041312591562292825,7
+370,GO:CC,melanosome,0.00041312591562292825,7
+371,HPA,Skin 2; endothelial cells[High],0.0004151255879102924,13
+372,HP,Sarcoma,0.00042591488476172455,10
+373,HPA,Duodenum,0.00042853710313050164,82
+374,HPA,Liver; cholangiocytes[High],0.0004449902956177762,13
+375,HPA,Lung; alveolar cells type II[≥Low],0.0004466834509898678,30
+376,HPA,Duodenum; glands of Brunner[High],0.0004696805981238821,8
+377,REAC,SARS-CoV-1-host interactions,0.00047022518790580664,8
+378,HPA,Pancreas; pancreatic endocrine cells[≥Medium],0.0004714619499870075,51
+379,HPA,Gallbladder; glandular cells[High],0.00047636699536899717,44
+380,GO:CC,protein folding chaperone complex,0.0004842720186251115,5
+381,GO:CC,anchoring junction,0.0004894500601842042,17
+382,MIRNA,hsa-mir-5681a,0.0005097738645282535,8
+383,TF,Factor: Elf-1; motif: NANGCGGAAGTN,0.0005231190080940733,68
+384,GO:BP,regulation of telomerase RNA localization to Cajal body,0.0005423543882149195,4
+385,GO:BP,protein localization to Cajal body,0.0005423543882149195,4
+386,GO:BP,protein localization to nuclear body,0.0005423543882149195,4
+387,HPA,Cerebellum; Purkinje cells[High],0.0005562836663097296,30
+388,HPA,Parathyroid gland; glandular cells[≥Low],0.0005611692713022109,69
+389,HPA,Parathyroid gland,0.0005611692713022109,69
+390,TF,Factor: c-ets-2; motif: ACCGGAWRTN,0.0005843883492563553,85
+391,HPA,Skin 1; melanocytes[High],0.0005893335038166455,23
+392,HPA,Rectum; fibroblasts[≥Medium],0.0006252557606365273,8
+393,REAC,Metabolism,0.0006453229463970798,37
+394,HPA,Small intestine; enterocytes[≥Low],0.0006760202796662881,17
+395,GO:CC,CRD-mediated mRNA stability complex,0.0006846245322180683,3
+396,HPA,Colon; mucosal lymphoid cells[≥Low],0.0007107949656601004,16
+397,HPA,Colon; goblet cells[≥Medium],0.0007134360132018348,13
+398,HPA,Tonsil,0.000754945433121298,81
+399,HPA,Skin 1; lymphocytes[High],0.0007722808720183206,14
+400,HPA,Hippocampus; glial cells[≥Low],0.0007992274667592692,55
+401,HPA,Hippocampus; neuronal cells[≥Low],0.0008216545027115896,71
+402,HPA,Small intestine; goblet cells[≥Medium],0.0008395670700443505,13
+403,HPA,Rectum; goblet cells[≥Medium],0.0008953242166647802,13
+404,HP,Abnormal scapula morphology,0.0008991268022011538,10
+405,HPA,Stomach 2; glandular cells[High],0.0009356297834351267,39
+406,HPA,Vagina; squamous epithelial cells[≥Medium],0.0009510073947154111,54
+407,TF,Factor: ER81; motif: RCCGGAARYN; match class: 1,0.0009530952962989258,64
+408,HPA,Adipose tissue; adipocytes[≥Medium],0.0009587760570732737,37
+409,GO:MF,nucleic acid binding,0.0009689280476302275,51
+410,HPA,Skin 1; melanocytes[≥Medium],0.0009722069562395126,51
+411,HPA,Skin 1; hair follicles[≥Medium],0.0009974891628538464,12
+412,GO:BP,telomere maintenance via telomerase,0.0010208301346423944,6
+413,HPA,Lymph node; germinal center cells[High],0.0010354654808749774,22
+414,CORUM,CCT complex (chaperonin containing TCP1 complex),0.0010577754750412036,4
+415,TF,Factor: ER71:Pax-5; motif: ACCGGAACYACGCWTSANTG,0.0010850543640035792,99
+416,GO:BP,protein localization to nucleoplasm,0.0010884379434102857,4
+417,HPA,Skin 1; fibrohistiocytic cells[High],0.0011261526769628337,14
+418,HPA,Lung; alveolar cells type II[High],0.001181693342945046,18
+419,GO:BP,ribosome biogenesis,0.001187837350049083,11
+420,HPA,Caudate; neuronal cells[High],0.0011935088020891434,24
+421,TF,Factor: pax-6; motif: NYACGCNYSANYGMNCN; match class: 1,0.0012079531318433144,87
+422,TF,Factor: Erg; motif: NACCGGAARTN; match class: 1,0.0012098792016827567,51
+423,HPA,Rectum; goblet cells[≥Low],0.001225952732569299,14
+424,TF,Factor: ETV5; motif: ACCGGAAGTN,0.0012714741095104353,77
+425,REAC,Prefoldin mediated transfer of substrate  to CCT/TriC,0.0012730288063871901,5
+426,HPA,Stomach 2; glandular cells[≥Medium],0.0012823285270345752,71
+427,HPA,Skin 1; sebaceous glands[≥Low],0.0012943303023939953,10
+428,HPA,Colon; endocrine cells[High],0.0013191323196977116,11
+429,HPA,Cervix; squamous epithelial cells[High],0.0013648213119393014,23
+430,GO:BP,RNA-templated DNA biosynthetic process,0.001368943922802445,6
+431,TF,Factor: PEA3; motif: NACCGGAAGTN,0.0013983705597228856,84
+432,HPA,Liver; hepatocytes[≥Medium],0.0014055993430625677,51
+433,HPA,Duodenum; paneth cells[≥Medium],0.0014236998689899159,11
+434,HPA,Cerebellum; cells in molecular layer[≥Low],0.001454541154749204,57
+435,HP,Microtia,0.0014747656311016543,10
+436,HPA,Colon; goblet cells[High],0.0014755338158502522,10
+437,HPA,Small intestine,0.0015289393408622883,81
+438,HPA,Rectum; fibroblasts[≥Low],0.0015599601428010043,8
+439,CORUM,"40S ribosomal subunit, cytoplasmic",0.0016284846574367187,6
+440,GO:BP,ribosomal small subunit biogenesis,0.0016935082159605843,7
+441,HPA,Cerebellum; cells in molecular layer[≥Medium],0.0016957259605805042,42
+442,MIRNA,hsa-mir-186-5p,0.0016999799612680425,17
+443,MIRNA,hsa-mir-1-3p,0.0017709443435588602,19
+444,HP,Horseshoe kidney,0.0018093480877490631,9
+445,HPA,Skin 1; sebaceous glands[≥Medium],0.0018107212206293659,9
+446,HPA,Caudate; glial cells[High],0.0018623006800399266,18
+447,HPA,Rectum; peripheral nerve/ganglion[≥Low],0.001918014087031471,11
+448,TF,Factor: nerf; motif: NRRNSCGGAAGNRNNNN,0.0019250412463240325,59
+449,GO:BP,positive regulation of cytoplasmic translation,0.0019639635472718246,4
+450,HPA,Rectum; goblet cells[High],0.0019860446934332763,10
+451,HPA,Appendix; goblet cells[≥Medium],0.0020251914144213384,12
+452,REAC,SARS-CoV-2 Infection,0.0020528039590804164,12
+453,REAC,SARS-CoV Infections,0.0020641438459714115,15
+454,HP,Anemia of inadequate production,0.002246404588643376,10
+455,HP,Pallor,0.0022545128972710554,9
+456,HPA,Caudate; glial cells[≥Medium],0.0023058798124732495,37
+457,HP,Neoplasm of the large intestine,0.0023730737146643787,8
+458,MIRNA,hsa-mir-100-5p,0.0024626813124020356,10
+459,HPA,Colon; endothelial cells[≥Low],0.0025221258699489346,66
+460,HPA,Rectum; endocrine cells[High],0.0025560795851668604,11
+461,HPA,Kidney; distal tubules[≥Low],0.0027691835685908542,18
+462,GO:BP,regulation of telomere maintenance,0.0027963076101772785,7
+463,TF,Factor: Elk-1; motif: RACCGGAAGTR,0.002858370504270932,67
+464,HPA,Skin 1; melanocytes[≥Low],0.002948582348384246,63
+465,REAC,Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding,0.0029756510185375215,5
+466,GO:CC,membrane,0.003011873596931287,70
+467,GO:BP,organelle organization,0.003061584988504773,38
+468,HPA,Appendix; goblet cells[≥Low],0.003130960469708524,13
+469,HP,Aplasia/Hypoplasia of the external ear,0.0032080311035532416,10
+470,HP,Decreased total neutrophil count,0.0032080311035532416,10
+471,TF,Factor: ELF1; motif: NNNASCCGGAAGTGGNNNN,0.0032608324366826496,72
+472,HPA,Esophagus; squamous epithelial cells[≥Medium],0.003268336567414688,61
+473,GO:BP,telomere maintenance via telomere lengthening,0.003295487015653886,6
+474,HPA,Stomach 1; glandular cells[High],0.0033551519008300046,38
+475,HPA,Small intestine; paneth cells[≥Medium],0.003479658330639025,10
+476,MIRNA,hsa-mir-149-5p,0.003526670297589191,12
+477,TF,Factor: GABP-ALPHA; motif: RCCGGAARTNN,0.0035431939788097898,34
+478,MIRNA,hsa-mir-23b-3p,0.0035555586482840466,11
+479,HPA,Cerebral cortex; neuronal cells[≥Low],0.003566105548043014,73
+480,GO:BP,chaperone-mediated protein folding,0.003571976680632057,6
+481,HPA,Rectum; enterocytes[High],0.003616105081575027,10
+482,HPA,Appendix; endocrine cells[High],0.0037571425787682523,10
+483,REAC,Cellular response to chemical stress,0.0037601136203763096,10
+484,GO:BP,telomerase RNA localization to Cajal body,0.004135099574853976,4
+485,GO:BP,RNA localization to nucleus,0.004135099574853976,4
+486,GO:BP,telomerase RNA localization,0.004135099574853976,4
+487,GO:BP,RNA localization to Cajal body,0.004135099574853976,4
+488,HP,Aplasia/Hypoplasia of the ear,0.00432665903951717,10
+489,GO:BP,'de novo' post-translational protein folding,0.004455348692903713,5
+490,HPA,Rectum; endothelial cells[≥Medium],0.004554448682432656,9
+491,GO:MF,peroxiredoxin activity,0.004655393152841841,3
+492,HPA,Duodenum; enterocytes[High],0.004707136115844866,10
+493,HP,Short thumb,0.004742359640983112,8
+494,HPA,Hippocampus; glial cells[≥Medium],0.005025995549690848,33
+495,HP,Hydrops fetalis,0.0050333363744302796,8
+496,TF,Factor: Elk-1; motif: NRCCGGAAGTN,0.005061672401477372,66
+497,HPA,Duodenum; goblet cells[≥Low],0.005220992642208462,13
+498,HP,Leukemia,0.005370257743651933,9
+499,HPA,Appendix; enterocytes[High],0.00540072667687752,9
+500,TF,Factor: ERG; motif: ACCGGAART; match class: 1,0.005415720343836771,41
+501,REAC,Nuclear events mediated by NFE2L2,0.005575156017065519,7
+502,GO:CC,secretory vesicle,0.005756715209729176,17
+503,HPA,Cerebellum; GLUC cells - cytoplasm/membrane[High],0.005856586654125047,7
+504,TF,Factor: E2F-4; motif: NTTTCSCGCC; match class: 1,0.005856681526950465,68
+505,TF,Factor: Erg; motif: ACCGGAAGTN,0.005886644689634363,68
+506,REAC,Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding,0.00609151919917176,5
+507,HPA,Small intestine; goblet cells[≥Low],0.00609733108262199,13
+508,HPA,Soft tissue 2; fibroblasts[≥Medium],0.006143343985367497,39
+509,GO:BP,regulation of telomere maintenance via telomerase,0.006270290324922947,5
+510,HPA,Colon; goblet cells[≥Low],0.0064168595428521664,13
+511,GO:CC,endoplasmic reticulum protein-containing complex,0.00655265053641297,6
+512,HPA,Epididymis; glandular cells[High],0.006659756539496324,31
+513,TF,Factor: c-ets-1; motif: ACCGGAWGTN; match class: 1,0.006904632936599401,31
+514,HPA,Small intestine; enterocytes[High],0.006992422434517576,10
+515,HP,Abnormal total neutrophil count,0.007045561466992398,10
+516,GO:CC,ribonucleoprotein complex,0.007047644311674263,29
+517,HPA,Testis,0.00709722286048965,86
+518,KEGG,Parkinson disease,0.007227602224173471,10
+519,HP,Abnormality of the musculature of the upper limbs,0.007492792009444364,11
+520,HPA,Placenta; trophoblastic cells[≥Medium],0.007873060995296655,60
+521,HPA,Breast; myoepithelial cells[High],0.007965803403723467,19
+522,HPA,Duodenum; endocrine cells[High],0.008024328903128288,11
+523,GO:CC,secretory granule lumen,0.008236672549774225,9
+524,REAC,SARS-CoV-1 Infection,0.008534259180719197,8
+525,MIRNA,hsa-mir-598-3p,0.008684789145861491,4
+526,TF,Factor: E2F-1:DP-1; motif: TTTCSCGC,0.008735828392256161,80
+527,TF,Factor: c-ets-1; motif: ACCGGAWGTN,0.008779962497424998,65
+528,TF,Factor: c-Ets-2; motif: NCCGGAAGTG,0.008961831290094698,69
+529,HPA,Cervix; squamous epithelial cells[≥Low],0.00918778252611464,63
+530,GO:CC,cytoplasmic vesicle lumen,0.009289157330689258,9
+531,HPA,Duodenum; glands of Brunner[≥Medium],0.009497295960160353,9
+532,GO:CC,vesicle lumen,0.009512805525664058,9
+533,HPA,Prostate; glandular cells[High],0.009558000499897072,25
+534,HPA,Testis; Leydig cells[≥Low],0.009662810886938338,75
+535,TF,Factor: Elf-1; motif: NANSCGGAAGTR,0.009754315211223458,53
+536,HPA,Spleen; cells in white pulp[High],0.009855245322521218,19
+537,GO:MF,ubiquitin ligase inhibitor activity,0.009900674259151499,3
+538,TF,Factor: E2F; motif: NNTTTCGCGCN,0.01019635948098293,57
+539,GO:BP,positive regulation of telomere maintenance via telomerase,0.01112268595535101,4
+540,HPA,Kidney; proximal tubules (cell body)[≥Medium],0.01137306149828956,15
+541,TF,Factor: Elf-1; motif: NANGCGGAAGTR,0.011543631886948296,57
+542,HPA,Small intestine; paneth cells[≥Low],0.011600674461784434,10
+543,GO:CC,organelle lumen,0.011639985518197137,52
+544,GO:CC,intracellular organelle lumen,0.011639985518197137,52
+545,GO:CC,membrane-enclosed lumen,0.011639985518197137,52
+546,TF,Factor: IRX-1; motif: NACRYNNNNNNNNRYGNN; match class: 1,0.011769068421470205,103
+547,HPA,Skin 1; endothelial cells[High],0.011781874564624265,11
+548,MIRNA,hsa-mir-1260b,0.012074546974172979,23
+549,GO:CC,oligosaccharyltransferase complex,0.012117108868167858,3
+550,HP,Abnormality of the musculature of the limbs,0.012241601782398978,16
+551,TF,Factor: YY1; motif: NNCGCCATTNN,0.012596492406011342,78
+552,TF,Factor: ELF4; motif: NCCGGAARTN,0.012903232409186133,51
+553,TF,Factor: Erm; motif: ACCGGAAGTN; match class: 1,0.01324577401581586,27
+554,GO:BP,protein localization to organelle,0.013275067523078091,19
+555,TF,Factor: Elk-1:Pax-5; motif: ACCGGAACYACGCWTSANYG; match class: 1,0.013548104925090832,67
+556,HPA,Duodenum; glands of Brunner[≥Low],0.014064575269564387,10
+557,TF,Factor: YY1; motif: NYNKCCATNTT,0.014822645581167701,54
+558,REAC,SARS-CoV-2-host interactions,0.015110238020432829,9
+559,GO:BP,regulation of telomere maintenance via telomere lengthening,0.015361511174837411,5
+560,GO:MF,ubiquitin-protein transferase regulator activity,0.01555834077467199,4
+561,MIRNA,hsa-mir-31-5p,0.0157237445025799,8
+562,TF,Factor: PEA3; motif: NACCGGAAGTN; match class: 1,0.01598990927856932,48
+563,HPA,Kidney; proximal tubules (cell body)[≥Low],0.016047403429272165,17
+564,TF,Factor: ETV7; motif: NCCGGAANNN,0.01607385974756073,78
+565,HPA,Parathyroid gland; glandular cells[≥Medium],0.016349910574942814,54
+566,HP,Aplasia/Hypoplasia of the thumb,0.01655141982834576,8
+567,TF,Factor: ERG; motif: ACCGGAARTN; match class: 1,0.01685235394397354,42
+568,GO:CC,cytoplasmic vesicle,0.016879065641356387,27
+569,TF,Factor: Fli-1; motif: NACCGGAARTN,0.017033234891637855,77
+570,HP,Low anterior hairline,0.017387512650492567,8
+571,GO:CC,intracellular vesicle,0.017582345516419736,27
+572,TF,Factor: Elf-1; motif: NAMCCGGAAGTN,0.017620687851723316,65
+573,HPA,Skin 2; lymphocytes[High],0.017909202919983457,13
+574,GO:BP,positive regulation of telomere maintenance via telomere lengthening,0.01816193091694185,4
+575,HPA,Urinary bladder; urothelial cells[High],0.018609491775095372,32
+576,TF,Factor: E2F-1; motif: NNNSSCGCSAANN; match class: 1,0.019037322271197886,52
+577,GO:BP,regulation of protein metabolic process,0.01909844373081189,24
+578,TF,Factor: E2F-1; motif: NGGGCGGGARV,0.01974678619566157,98
+579,HPA,Kidney; collecting ducts[≥Low],0.020450602192460872,15
+580,TF,Factor: Elk-1; motif: AACCGGAAGTR,0.020682330181708633,50
+581,TF,Factor: PEA3; motif: RCCGGAAGYN,0.020738568036506262,61
+582,HPA,Kidney; collecting ducts[≥Medium],0.020914077103561014,13
+583,HP,Coarctation of aorta,0.02109820891069138,8
+584,HPA,Breast; adipocytes[≥Medium],0.021148094168892073,26
+585,TF,Factor: YY1; motif: NNNNAARATGGNNNN,0.021639449829950138,53
+586,MIRNA,hsa-mir-3156-3p,0.02268212528709606,19
+587,TF,Factor: Elk-1; motif: NNCCGGAAGTN; match class: 1,0.022716289269487905,53
+588,HPA,Skin 2; fibrohistiocytic cells[High],0.022820718253031808,13
+589,HPA,Testis; Leydig cells[High],0.022863133119044993,29
+590,TF,Factor: PEA3; motif: NACCGGAAGTN; match class: 1,0.022963395923111446,28
+591,HPA,Cerebellum; GLUC cells - cytoplasm/membrane[≥Medium],0.0229754551489991,8
+592,TF,Factor: Erg; motif: NACCGGAARYN,0.02315599992508177,70
+593,TF,Factor: PEA3; motif: RCCGGAAGYN; match class: 1,0.023245956247739792,29
+594,HPA,Colon; fibroblasts[High],0.02391563297463427,5
+595,TF,Factor: Elk-1; motif: NNNNCCGGAARTNN,0.024425476445797036,77
+596,GO:BP,substrate adhesion-dependent cell spreading,0.02455796867107016,6
+597,TF,Factor: Erg; motif: NNACCGGAARTSN,0.024599876531486115,67
+598,REAC,Formation of tubulin folding intermediates by CCT/TriC,0.02475036935357683,4
+599,GO:BP,regulation of organelle organization,0.02483100815993513,18
+600,HP,Abnormal platelet count,0.02499012985990741,13
+601,TF,Factor: ER71; motif: ACCGGAARYN,0.025251698591352026,54
+602,HP,Renal agenesis,0.0253354919647847,9
+603,HPA,Appendix; germinal center cells[≥Low],0.025761236861961502,10
+604,HPA,Appendix; goblet cells[High],0.025839603080484906,8
+605,HPA,Caudate; neuronal cells[≥Medium],0.026036940968934223,51
+606,HPA,Small intestine; endocrine cells[High],0.026515844493916647,10
+607,HPA,Thyroid gland; glandular cells[High],0.026523627549435665,30
+608,GO:BP,protein folding,0.026636613543019116,8
+609,TF,Factor: ETS1; motif: ACCGGAARYN; match class: 1,0.027400807161478975,46
+610,MIRNA,hsa-mir-3148,0.02742597231303133,30
+611,HP,Abnormal platelet morphology,0.02746104223508241,13
+612,GO:BP,negative regulation of ubiquitin protein ligase activity,0.027511036612361046,3
+613,HPA,Cerebellum; cells in molecular layer[High],0.028321628216437515,19
+614,HP,Abnormality of neutrophils,0.0285360953876669,10
+615,HPA,Soft tissue 1; peripheral nerve[≥Low],0.02886335347464279,39
+616,GO:BP,ribosome assembly,0.030080547460367753,5
+617,GO:MF,ubiquitin-like protein ligase binding,0.030099926040739636,9
+618,GO:BP,positive regulation of macromolecule biosynthetic process,0.030507886105650923,29
+619,HPA,Hippocampus; neuronal cells[High],0.031156144164224603,23
+620,HP,Abnormal erythrocyte morphology,0.031287025366730524,16
+621,REAC,KEAP1-NFE2L2 pathway,0.031288242639161114,7
+622,HPA,Lung; endothelial cells[High],0.03144906210858913,10
+623,HP,Small for gestational age,0.03145742572592007,10
+624,TF,Factor: YY1; motif: GGCSGCCATTTTGN,0.031648466457572764,55
+625,MIRNA,hsa-mir-1,0.031832699893738985,19
+626,TF,Factor: Elk-1; motif: NNCCGGAAGTN,0.03209710066116981,85
+627,HP,Abnormal granulocyte count,0.0324868975969163,10
+628,TF,Factor: Erg; motif: ACCGGAAGTN; match class: 1,0.032781529230270015,32
+629,TF,Factor: GABP-alpha; motif: CTTCCK,0.0328668107707719,82
+630,HP,Abnormal soft palate morphology,0.033545311664886016,10
+631,HPA,Kidney; distal tubules[≥Medium],0.03361443004222704,14
+632,GO:BP,fibroblast proliferation,0.03395851394803904,6
+633,MIRNA,hsa-mir-4496,0.0341764488687233,23
+634,REAC,AUF1 (hnRNP D0) binds and destabilizes mRNA,0.0345854707173599,5
+635,GO:BP,telomere maintenance,0.03480095544445548,7
+636,GO:CC,secretory granule,0.03490707075918985,14
+637,GO:MF,calcium-dependent protein binding,0.035406371319223376,5
+638,GO:MF,enzyme binding,0.03659849341165549,25
+639,MIRNA,hsa-mir-4681,0.03734253481010853,8
+640,HPA,Spleen; cells in red pulp[≥Medium],0.03736202232630844,42
+641,GO:BP,CRD-mediated mRNA stabilization,0.03769156922330589,3
+642,TF,Factor: PEA3; motif: NACCGGAAGTN; match class: 1,0.037710883161189986,29
+643,TF,Factor: E2F-4; motif: TTTTGGCGCCAWWN,0.03851313434639959,81
+644,MIRNA,hsa-mir-548aa,0.038996630655241116,25
+645,HPA,Colon; endothelial cells[≥Medium],0.04002843763875839,47
+646,HPA,Rectum; peripheral nerve/ganglion[≥Medium],0.04042588920223306,8
+647,MIRNA,hsa-mir-613,0.040477827638920015,19
+648,TF,Factor: PEA3; motif: NACCGGAAGTN; match class: 1,0.04183597772423409,45
+649,TF,Factor: USF2; motif: NGGTCACGTGNNSNNNNNN,0.041847444616399214,29
+650,HPA,Rectum; endothelial cells[High],0.043973051371898546,6
+651,TF,Factor: E2F; motif: TTTSGCGS,0.044216458390169126,74
+652,HPA,Skin 1; cells in granular layer[High],0.044245370347342376,9
+653,REAC,Chaperonin-mediated protein folding,0.04465763732926039,6
+654,HPA,Cerebellum; GLUC cells - cytoplasm/membrane[≥Low],0.044975872550026066,8
+655,WP,miR targeted genes in squamous cell,0.04605330892274845,7
+656,REAC,PCP/CE pathway,0.047458665138767356,6
+657,HPA,Lung; endothelial cells[≥Low],0.04928975266853638,17
+658,HP,Abnormality of thrombocytes,0.049480730318712314,13
