@@ -12,11 +12,10 @@ from io import StringIO
 def normalize(name):
     return name.upper().replace('-', '').replace(' ', '')
 
-# Load gene expression data
 folder = 'GENE EXPRESSION CSVs'
 csv_files = [f for f in os.listdir(folder) if f.endswith('.csv')]
 
-# Cell lines of interest
+
 cell_lines = [
     'A2058', 'A549', 'HEPG2', 'CAL-27', 'HARA', 'Hs 294T', 'HuH-7', 'SKLMS1', 'MDA-MB-468', 'MDST8',
     'NCI-H2170', 'OVISE', 'PANC-1', 'SK-HEP-1', 'SK-MEL-24', 'SK-UT-1', 'SUIT-2', 'TE-11', 'TE-5',
@@ -45,19 +44,14 @@ responders = set(normalize(x) for x in [
     'TE-5', 'THP-1', 'YD-10B', 'A375', 'HCC-15', 'MCF-10A', 'NUGC-3', 'Panc 04.03'
 ])
 
-# Amplify responders by 1.1x
-for idx in expr_df.index:
-    if idx in responders:
-        expr_df.loc[idx] *= 1.1
 
-# Log transform
 expr_log = np.log1p(expr_df)
 
-# Meta info
+
 meta = pd.DataFrame(index=expr_log.index)
 meta['Response'] = ['Responder' if idx in responders else 'Non-responder' for idx in meta.index]
 
-# Cancer type info
+
 cancer_data = """
 A549,Lung
 HCT-116,Colorectal
@@ -116,7 +110,7 @@ expr_scaled = pd.DataFrame(
     columns=expr_log.columns
 )
 
-# Compute differences
+
 responder_idx = meta[meta['Response'] == 'Responder'].index
 nonresponder_idx = meta[meta['Response'] == 'Non-responder'].index
 t_stat, p_vals = ttest_ind(expr_scaled.loc[responder_idx], expr_scaled.loc[nonresponder_idx], axis=0, equal_var=False)
@@ -127,11 +121,11 @@ diff_df = pd.DataFrame({
     'PValue': p_vals
 }).set_index('Gene')
 
-# Top 100 genes
-top_genes = diff_df.sort_values(by='PValue').head(100).index
+
+top_genes = diff_df.sort_values(by='PValue').index
 top_expr = expr_scaled[top_genes]
 
-# Custom order
+
 custom_order = [
     'MDST8', 'THP-1', 'MDA-MB-468', 'A549', 'OVISE', 'A375', 'NUGC-3', 'Hs 294T', 'SK-UT-1',
     'NCI-H2170', 'TE-11', 'SUIT-2', 'HCC-15', 'A2058', 'TE-5', 'PANC-1', 'SK-HEP-1', 'HARA',
@@ -142,10 +136,10 @@ custom_order = [
 custom_order_normalized = [normalize(x) for x in custom_order]
 sorted_idx = [idx for idx in custom_order_normalized if idx in expr_scaled.index]
 
-# Final data for heatmap
+
 top_expr_sorted = top_expr.loc[sorted_idx].fillna(0)
 
-# Color legends
+
 col_colors = pd.DataFrame({
     'Response': meta["Response"].map({'Responder': '#377EB8', 'Non-responder': '#E41A1C'}),
     'Cancer Type': meta["CancerType"].map(
@@ -154,7 +148,7 @@ col_colors = pd.DataFrame({
 }, index=meta.index)
 col_colors_sorted = col_colors.loc[sorted_idx]
 
-# Label cell lines
+
 def label_cellline(idx):
     return f"{meta.loc[idx, 'Response'][:3].upper()}: {idx}"
 top_expr_sorted.index = [label_cellline(i) for i in top_expr_sorted.index]
@@ -186,7 +180,7 @@ g.ax_heatmap.legend(
     loc='upper left'
 )
 
-# Labels
+
 plt.suptitle("Gene Expression Differences Between Non-Responders and Responders", fontsize=18, y=1.05)
 plt.xlabel("Cell Lines (Labeled by Response)")
 plt.ylabel("Top 100 Differential Genes")
